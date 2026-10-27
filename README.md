@@ -1,7 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1f2937&height=200&section=header&text=Raunak%20Shaikh&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20%26%20AI&descAlignY=58&descSize=18" alt="header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1f2937&height=160&section=header&text=Raunak%20Shaikh&fontSize=48&fontColor=ffffff" alt="header" width="100%" />
 
 <a href="https://github.com/Raunaks1">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Raunak;A+passionate+Software+Engineer+from+India;Building+with+Next.js%2C+RAG+%26+Cloud" alt="Typing SVG" />
@@ -61,7 +61,7 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Raunaks1&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&locale=en" alt="github stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Raunaks1&show_icons=true&theme=github_dark&hide_border=true&locale=en" alt="github stats" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raunaks1&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="top languages" />
 </p>
 
@@ -69,18 +69,14 @@
   <img src="https://streak-stats.demolab.com/?user=Raunaks1&theme=github-dark-blue&hide_border=true" alt="streak stats" />
 </p>
 
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Raunaks1&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" alt="trophies" />
-</p>
-
 ---
 
 ## 📈 Contribution Activity Graph (Commit Graph)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raunaks1&bg_color=0d1117&color=58a6ff&line=0e75b6&point=ffffff&area=true&area_color=0e75b6&hide_border=true&title_color=58a6ff" alt="contribution activity graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raunaks1&bg_color=0d1117&color=58a6ff&line=0e75b6&point=ffffff&hide_border=true" alt="contribution activity graph" width="100%" />
+  <br/>
+  <img src="https://ghchart.rshah.org/0e75b6/Raunaks1" alt="contribution chart" width="100%" />
 </p>
 
 ---
