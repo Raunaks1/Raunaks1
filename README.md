@@ -71,16 +71,6 @@
 
 ---
 
-## 📈 Contribution Activity Graph (Commit Graph)
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raunaks1&bg_color=0d1117&color=58a6ff&line=0e75b6&point=ffffff&hide_border=true" alt="contribution activity graph" width="100%" />
-  <br/>
-  <img src="https://ghchart.rshah.org/0e75b6/Raunaks1" alt="contribution chart" width="100%" />
-</p>
-
----
-
 ## 🐍 Contribution Snake
 
 <p align="center">
